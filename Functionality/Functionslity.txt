@@ -1,0 +1,13 @@
+1. Chat - Teammates and group
+2. Roles - Project Manager/Team Leader/Developer
+3. File sharing - attach a file and add some description
+4. Share code snippets, and projects in zip format
+5. Public and Private Groups for discussion
+6. Share Blogs - Live, Comment, Favourite
+7. News Feed - Post some Photos, Videos and text
+8. Profile Page
+9. Signup Page
+10. Login Page
+11. Forgot or reset password
+12. Help
+13. About us
